@@ -1,0 +1,2 @@
+// Unknown licensing is not permission to redistribute an image.
+export const publicImageAllowed=image=>Boolean(image?.license&&image.rights_status!=='permission_required'&&/^(CC BY|CC0|Public domain)/i.test(image.license));

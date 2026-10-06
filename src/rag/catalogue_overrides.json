@@ -1,0 +1,180 @@
+[
+  {
+    "id": "ho-guom",
+    "name": "Hồ Gươm",
+    "region": "bac",
+    "category": "attraction",
+    "coordinates": [
+      105.8525,
+      21.02888889
+    ],
+    "description": "Dạo một vòng hồ, ngắm Tháp Rùa và tìm nhịp sống Hà Nội bên những tán cây.",
+    "duration": "1–2 giờ",
+    "source": "https://en.wikipedia.org/wiki/Ho%C3%A0n%20Ki%E1%BA%BFm%20Lake",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Thap_Rua.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Thap_Rua.jpg"
+    },
+    "aliases": [
+      "hoan kiem",
+      "ha noi"
+    ]
+  },
+  {
+    "id": "ha-long",
+    "name": "Vịnh Hạ Long",
+    "region": "bac",
+    "category": "nature",
+    "coordinates": [
+      107.2,
+      20.9
+    ],
+    "description": "Khám phá cảnh quan núi đá vôi trên vịnh. Vị trí là điểm đại diện của vùng vịnh, không phải bến tàu.",
+    "duration": "1–2 ngày",
+    "source": "https://en.wikipedia.org/wiki/H%E1%BA%A1%20Long%20Bay",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Ha_Long_Bay_in_2019.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ha_Long_Bay_in_2019.jpg"
+    },
+    "aliases": [
+      "ha long"
+    ]
+  },
+  {
+    "id": "trang-an",
+    "name": "Tràng An",
+    "region": "bac",
+    "category": "nature",
+    "coordinates": [
+      105.89638889,
+      20.25666667
+    ],
+    "description": "Một chuyến thuyền giữa núi đá và thung lũng xanh. Điểm bản đồ đại diện quần thể cảnh quan.",
+    "duration": "Nửa ngày",
+    "source": "https://en.wikipedia.org/wiki/Tr%C3%A0ng%20An%20Scenic%20Landscape%20Complex",
+    "aliases": [
+      "ninh binh"
+    ]
+  },
+  {
+    "id": "hoi-an",
+    "name": "Hội An",
+    "region": "trung",
+    "category": "history",
+    "coordinates": [
+      108.333333,
+      15.883333
+    ],
+    "description": "Đi bộ qua phố cổ, ngắm những mái ngói và dành thời gian khám phá không gian bên sông Hoài.",
+    "duration": "1–2 ngày",
+    "source": "https://whc.unesco.org/en/list/948/",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/10549-Hoi-An_%2837621348460%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:10549-Hoi-An_(37621348460).jpg"
+    },
+    "aliases": [
+      "hoi an"
+    ]
+  },
+  {
+    "id": "hue",
+    "name": "Đại nội Huế",
+    "region": "trung",
+    "category": "history",
+    "coordinates": [
+      107.57777778,
+      16.46972222
+    ],
+    "description": "Khám phá không gian hoàng thành và kiến trúc cung đình. Mang nước và dành thời gian nghỉ giữa các khu tham quan.",
+    "duration": "Nửa ngày",
+    "source": "https://en.wikipedia.org/wiki/Imperial%20City%20of%20Hu%E1%BA%BF",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/%C4%90%E1%BA%A1i_n%E1%BB%99i.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:%C4%90%E1%BA%A1i%20n%E1%BB%99i.jpg"
+    },
+    "aliases": [
+      "hue"
+    ]
+  },
+  {
+    "id": "my-son",
+    "name": "Mỹ Sơn",
+    "region": "trung",
+    "category": "history",
+    "coordinates": [
+      108.11666667,
+      15.76666667
+    ],
+    "description": "Tham quan quần thể đền tháp trong thung lũng. Gợi ý đi sớm để trải nghiệm không gian yên tĩnh.",
+    "duration": "2–3 giờ",
+    "source": "https://en.wikipedia.org/wiki/M%E1%BB%B9%20S%C6%A1n",
+    "image": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2024%20-%20M%E1%BB%B9%20S%C6%A1n%20Group%20B%2C%20C%20and%20D%20-%20img%2023.jpg?width=480",
+      "source": "https://commons.wikimedia.org/wiki/File:2024%20-%20M%E1%BB%B9%20S%C6%A1n%20Group%20B%2C%20C%20and%20D%20-%20img%2023.jpg"
+    },
+    "aliases": [
+      "my son"
+    ]
+  },
+  {
+    "id": "ben-thanh",
+    "name": "Chợ Bến Thành",
+    "region": "nam",
+    "category": "food",
+    "coordinates": [
+      106.69801918,
+      10.77252069
+    ],
+    "description": "Khám phá một khu chợ quen thuộc của thành phố, tìm hiểu món ăn và hỏi giá trước khi mua.",
+    "duration": "1–2 giờ",
+    "source": "https://en.wikipedia.org/wiki/B%E1%BA%BFn%20Th%C3%A0nh%20Market",
+    "image": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ben%20Thanh%2C%20Ciudad%20Ho%20Chi%20Minh%2C%20Vietnam%2C%202013-08-14%2C%20DD%2001.JPG?width=480",
+      "source": "https://commons.wikimedia.org/wiki/File:Ben%20Thanh%2C%20Ciudad%20Ho%20Chi%20Minh%2C%20Vietnam%2C%202013-08-14%2C%20DD%2001.JPG"
+    },
+    "aliases": [
+      "sai gon",
+      "ho chi minh"
+    ]
+  },
+  {
+    "id": "cu-chi",
+    "name": "Địa đạo Củ Chi",
+    "region": "nam",
+    "category": "history",
+    "coordinates": [
+      106.52861111,
+      11.06083333
+    ],
+    "description": "Tìm hiểu lịch sử địa đạo. Hãy kiểm tra khu tham quan và lối vào cụ thể trước khi khởi hành.",
+    "duration": "Nửa ngày",
+    "source": "https://en.wikipedia.org/wiki/C%E1%BB%A7%20Chi%20tunnels",
+    "image": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/C%E1%BB%A7%20Chi%20tunnels%20entrance.JPG?width=480",
+      "source": "https://commons.wikimedia.org/wiki/File:C%E1%BB%A7%20Chi%20tunnels%20entrance.JPG"
+    },
+    "aliases": [
+      "cu chi"
+    ]
+  },
+  {
+    "id": "phu-quoc",
+    "name": "Phú Quốc",
+    "region": "nam",
+    "category": "beach",
+    "coordinates": [
+      103.95,
+      10.23333333
+    ],
+    "description": "Dành thời gian cho biển và nhịp sống trên đảo. Điểm bản đồ đại diện đảo, không phải một bãi tắm cụ thể.",
+    "duration": "2–3 ngày",
+    "source": "https://en.wikipedia.org/wiki/Ph%C3%BA%20Qu%E1%BB%91c",
+    "image": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bai-sao-phu-quoc-tuonglamphotos.jpg?width=480",
+      "source": "https://commons.wikimedia.org/wiki/File:Bai-sao-phu-quoc-tuonglamphotos.jpg"
+    },
+    "aliases": [
+      "phu quoc"
+    ]
+  }
+]

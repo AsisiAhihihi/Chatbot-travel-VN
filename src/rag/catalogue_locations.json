@@ -1,0 +1,3499 @@
+[
+  {
+    "id": "an_giang_poi_01",
+    "coordinates": [
+      105.058611,
+      10.585556
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q16480259#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/R%E1%BB%ABng_tr%C3%A0m_Tr%C3%A0_S%C6%B0",
+      "https://www.wikidata.org/wiki/Q16480259"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 0.000277778,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "an_giang_poi_04",
+    "coordinates": [
+      105.06666667,
+      10.91666667
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q5005252#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/B%C3%BAng_B%C3%ACnh_Thi%C3%AAn",
+      "https://www.wikidata.org/wiki/Q5005252"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 0.016666666666667,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "an_giang_poi_06",
+    "coordinates": [
+      103.956414,
+      10.217239
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/Dinh_C%E1%BA%ADu",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Dinh_C%E1%BA%ADu",
+      "https://www.wikidata.org/wiki/Q10755585"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "bac_ninh_poi_01",
+    "coordinates": [
+      105.9601644,
+      21.1071575
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_%C4%90%C3%B4",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_%C4%90%C3%B4",
+      "https://www.wikidata.org/wiki/Q180566"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "bac_ninh_poi_06",
+    "coordinates": [
+      106.565012,
+      21.534781
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/H%E1%BB%93_C%E1%BA%A5m_S%C6%A1n",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/H%E1%BB%93_C%E1%BA%A5m_S%C6%A1n",
+      "https://www.wikidata.org/wiki/Q5024871"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "ca_mau_poi_02",
+    "coordinates": [
+      104.94527778,
+      9.25138889
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q3895714#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_U_Minh_H%E1%BA%A1",
+      "https://www.wikidata.org/wiki/Q3895714"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 0.00027777777777778,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "can_tho_poi_01",
+    "coordinates": [
+      105.746,
+      10.005
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q10748803#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_n%E1%BB%95i_C%C3%A1i_R%C4%83ng",
+      "https://www.wikidata.org/wiki/Q10748803"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 0.001,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "can_tho_poi_05",
+    "coordinates": [
+      105.9459616,
+      9.6651471
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_B%E1%BB%91n_M%E1%BA%B7t",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Ch%C3%B9a_B%E1%BB%91n_M%E1%BA%B7t",
+      "https://www.wikidata.org/wiki/Q131308999"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "cao_bang_poi_01",
+    "coordinates": [
+      106.722501,
+      22.855897
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/Th%C3%A1c_B%E1%BA%A3n_Gi%E1%BB%91c",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Th%C3%A1c_B%E1%BA%A3n_Gi%E1%BB%91c",
+      "https://www.wikidata.org/wiki/Q983252"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "cao_bang_poi_02",
+    "coordinates": [
+      106.04978,
+      22.981319
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/Khu_di_t%C3%ADch_P%C3%A1c_B%C3%B3",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Khu_di_t%C3%ADch_P%C3%A1c_B%C3%B3",
+      "https://www.wikidata.org/wiki/Q7263979"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "cao_bang_poi_03",
+    "coordinates": [
+      106.70617,
+      22.845328
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99ng_Ngao",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99ng_Ngao",
+      "https://www.wikidata.org/wiki/Q10842294"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "cao_bang_poi_05",
+    "coordinates": [
+      105.863595,
+      22.615343
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/Phja_O%E1%BA%AFc",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Phja_O%E1%BA%AFc",
+      "https://www.wikidata.org/wiki/Q140521243"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "dak_lak_poi_02",
+    "coordinates": [
+      108.18,
+      12.4225
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q10771975#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/H%E1%BB%93_L%E1%BA%AFk",
+      "https://www.wikidata.org/wiki/Q10771975"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 0.0002777777777777778,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "dak_lak_poi_04",
+    "coordinates": [
+      109.293787,
+      13.354066
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/G%C3%A0nh_%C4%90%C3%A1_%C4%90%C4%A9a",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/G%C3%A0nh_%C4%90%C3%A1_%C4%90%C4%A9a",
+      "https://www.wikidata.org/wiki/Q20984274"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "dak_lak_poi_06",
+    "coordinates": [
+      109.29722222,
+      13.07777778
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/Th%C3%A1p_Nh%E1%BA%A1n",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Th%C3%A1p_Nh%E1%BA%A1n",
+      "https://www.wikidata.org/wiki/Q10825850"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "dien_bien_poi_04",
+    "coordinates": [
+      103.09944444,
+      21.43527778
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/H%E1%BB%93_P%C3%A1_Khoang",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/H%E1%BB%93_P%C3%A1_Khoang",
+      "https://www.wikidata.org/wiki/Q31922679"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "dong_nai_poi_02",
+    "coordinates": [
+      107.13444,
+      11.13139
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q3023420#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/H%E1%BB%93_Tr%E1%BB%8B_An",
+      "https://www.wikidata.org/wiki/Q3023420"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 0.0001,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "dong_nai_poi_03",
+    "coordinates": [
+      106.8015,
+      10.9648
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/V%C4%83n_mi%E1%BA%BFu_Tr%E1%BA%A5n_Bi%C3%AAn",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/V%C4%83n_mi%E1%BA%BFu_Tr%E1%BA%A5n_Bi%C3%AAn",
+      "https://www.wikidata.org/wiki/Q10833486"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "dong_nai_poi_04",
+    "coordinates": [
+      107.230614,
+      10.864361
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/M%E1%BB%99_c%E1%BB%B1_th%E1%BA%A1ch_H%C3%A0ng_G%C3%B2n",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/M%E1%BB%99_c%E1%BB%B1_th%E1%BA%A1ch_H%C3%A0ng_G%C3%B2n",
+      "https://www.wikidata.org/wiki/Q109432294"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "dong_thap_poi_01",
+    "coordinates": [
+      105.517,
+      10.725
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q586985#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_Tr%C3%A0m_Chim",
+      "https://www.wikidata.org/wiki/Q586985"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 0.0091428632038509,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "dong_thap_poi_02",
+    "coordinates": [
+      105.801667,
+      10.399444
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/X%E1%BA%BBo_Qu%C3%BDt",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/X%E1%BA%BBo_Qu%C3%BDt",
+      "https://www.wikidata.org/wiki/Q10836742"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "dong_thap_poi_04",
+    "coordinates": [
+      105.824948,
+      10.597419
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q10763514#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/G%C3%B2_Th%C3%A1p",
+      "https://www.wikidata.org/wiki/Q10763514"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 1e-06,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "dong_thap_poi_05",
+    "coordinates": [
+      106.33013889,
+      10.33236111
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/C%C3%B9_lao_Th%E1%BB%9Bi_S%C6%A1n",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/C%C3%B9_lao_Th%E1%BB%9Bi_S%C6%A1n",
+      "https://www.wikidata.org/wiki/Q16480765"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "gia_lai_poi_02",
+    "coordinates": [
+      108.92083333333333,
+      13.920583333333333
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q98137184#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/B%E1%BA%A3o_t%C3%A0ng_Quang_Trung",
+      "https://www.wikidata.org/wiki/Q98137184"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 2.777777777777778e-05,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "ha_noi_poi_03",
+    "coordinates": [
+      105.84638889,
+      21.02527778
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/Nh%C3%A0_t%C3%B9_H%E1%BB%8Fa_L%C3%B2",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Nh%C3%A0_t%C3%B9_H%E1%BB%8Fa_L%C3%B2",
+      "https://www.wikidata.org/wiki/Q1359941"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "ha_noi_poi_04",
+    "coordinates": [
+      105.82,
+      21.055
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q1187394#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/H%E1%BB%93_T%C3%A2y",
+      "https://www.wikidata.org/wiki/Q1187394"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 0.096258105750747,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "ha_noi_poi_05",
+    "coordinates": [
+      105.839839,
+      21.032582
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/C%E1%BB%99t_c%E1%BB%9D_H%C3%A0_N%E1%BB%99i",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/C%E1%BB%99t_c%E1%BB%9D_H%C3%A0_N%E1%BB%99i",
+      "https://www.wikidata.org/wiki/Q864752"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "hai_phong_poi_03",
+    "coordinates": [
+      106.6875,
+      20.85611111
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q3055063#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Ga_H%E1%BA%A3i_Ph%C3%B2ng",
+      "https://www.wikidata.org/wiki/Q3055063"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 0.00027777777777778,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "hue_poi_02",
+    "coordinates": [
+      107.58,
+      16.453
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_Thi%C3%AAn_M%E1%BB%A5",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Ch%C3%B9a_Thi%C3%AAn_M%E1%BB%A5",
+      "https://www.wikidata.org/wiki/Q975568"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "hung_yen_poi_05",
+    "coordinates": [
+      106.60081111,
+      20.27513056
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/C%E1%BB%93n_V%C3%A0nh",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/C%E1%BB%93n_V%C3%A0nh",
+      "https://www.wikidata.org/wiki/Q16480698"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "lai_chau_poi_03",
+    "coordinates": [
+      103.603333,
+      22.422778
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/Pu_Ta_Leng",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Pu_Ta_Leng",
+      "https://www.wikidata.org/wiki/Q116009528"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "lang_son_poi_01",
+    "coordinates": [
+      107.00426111,
+      21.87711111
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/M%E1%BA%ABu_S%C6%A1n",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/M%E1%BA%ABu_S%C6%A1n",
+      "https://www.wikidata.org/wiki/Q6922067"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "lang_son_poi_03",
+    "coordinates": [
+      106.74333333,
+      21.85583333
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_Tam_Thanh",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Ch%C3%B9a_Tam_Thanh",
+      "https://www.wikidata.org/wiki/Q10748541"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "lao_cai_poi_06",
+    "coordinates": [
+      105.023108,
+      21.749029
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/H%E1%BB%93_Th%C3%A1c_B%C3%A0",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/H%E1%BB%93_Th%C3%A1c_B%C3%A0",
+      "https://www.wikidata.org/wiki/Q7799842"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "nghe_an_poi_01",
+    "coordinates": [
+      105.552,
+      18.67986111
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/Khu_di_t%C3%ADch_l%E1%BB%8Bch_s%E1%BB%AD_Kim_Li%C3%AAn",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Khu_di_t%C3%ADch_l%E1%BB%8Bch_s%E1%BB%AD_Kim_Li%C3%AAn",
+      "https://www.wikidata.org/wiki/Q6409093"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "nghe_an_poi_02",
+    "coordinates": [
+      104.66666667,
+      18.98333333
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q2610809#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_P%C3%B9_M%C3%A1t",
+      "https://www.wikidata.org/wiki/Q2610809"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 0.016666666666667,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "ninh_binh_poi_02",
+    "coordinates": [
+      105.95416667,
+      20.25527778
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q2421186#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/C%E1%BB%91_%C4%91%C3%B4_Hoa_L%C6%B0",
+      "https://www.wikidata.org/wiki/Q2421186"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 0.00027777777777778,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "phu_tho_poi_01",
+    "coordinates": [
+      105.3214424,
+      21.3682242
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_H%C3%B9ng",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_H%C3%B9ng",
+      "https://www.wikidata.org/wiki/Q5964889"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "quang_ngai_poi_06",
+    "coordinates": [
+      108.013158,
+      14.345037
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q10800901#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_ch%C3%ADnh_t%C3%B2a_Kon_Tum",
+      "https://www.wikidata.org/wiki/Q10800901"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 9.272249719044043e-05,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "quang_ninh_poi_04",
+    "coordinates": [
+      107.09748922475673,
+      20.94876531315614
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q112182634#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/B%E1%BA%A3o_t%C3%A0ng_Qu%E1%BA%A3ng_Ninh",
+      "https://www.wikidata.org/wiki/Q112182634"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 1e-08,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "quang_tri_poi_01",
+    "coordinates": [
+      107.186772,
+      16.751672
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/Th%C3%A0nh_c%E1%BB%95_Qu%E1%BA%A3ng_Tr%E1%BB%8B",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Th%C3%A0nh_c%E1%BB%95_Qu%E1%BA%A3ng_Tr%E1%BB%8B",
+      "https://www.wikidata.org/wiki/Q10825609"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "quang_tri_poi_03",
+    "coordinates": [
+      107.111,
+      17.073
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Ba_%C4%91%E1%BA%A1o_V%E1%BB%8Bnh_M%E1%BB%91c",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Ba_%C4%91%E1%BA%A1o_V%E1%BB%8Bnh_M%E1%BB%91c",
+      "https://www.wikidata.org/wiki/Q738218"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "quang_tri_poi_05",
+    "coordinates": [
+      106.222972,
+      17.519514
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99ng_Thi%C3%AAn_%C4%90%C6%B0%E1%BB%9Dng",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99ng_Thi%C3%AAn_%C4%90%C6%B0%E1%BB%9Dng",
+      "https://www.wikidata.org/wiki/Q43171"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "tay_ninh_poi_01",
+    "coordinates": [
+      106.171175,
+      11.381431
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/N%C3%BAi_B%C3%A0_%C4%90en",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/N%C3%BAi_B%C3%A0_%C4%90en",
+      "https://www.wikidata.org/wiki/Q4922113"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "tay_ninh_poi_02",
+    "coordinates": [
+      106.133717,
+      11.303746
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/T%C3%B2a_Th%C3%A1nh_T%C3%A2y_Ninh",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/T%C3%B2a_Th%C3%A1nh_T%C3%A2y_Ninh",
+      "https://www.wikidata.org/wiki/Q10831162"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "tay_ninh_poi_03",
+    "coordinates": [
+      106.36361,
+      11.38417
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q10771957#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/H%E1%BB%93_D%E1%BA%A7u_Ti%E1%BA%BFng",
+      "https://www.wikidata.org/wiki/Q10771957"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 0.0001,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "thai_nguyen_poi_02",
+    "coordinates": [
+      105.69388889,
+      21.57944444
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q7068798#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/H%E1%BB%93_N%C3%BAi_C%E1%BB%91c",
+      "https://www.wikidata.org/wiki/Q7068798"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 0.00027777777777778,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "thai_nguyen_poi_05",
+    "coordinates": [
+      105.615278,
+      22.405278
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q1328473#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/H%E1%BB%93_Ba_B%E1%BB%83",
+      "https://www.wikidata.org/wiki/Q1328473"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 0.00027777777777778,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "thanh_hoa_poi_01",
+    "coordinates": [
+      105.60472222222,
+      20.078055555556
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q190060#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Th%C3%A0nh_nh%C3%A0_H%E1%BB%93",
+      "https://www.wikidata.org/wiki/Q190060"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 0.00027777777777778,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "thanh_hoa_poi_02",
+    "coordinates": [
+      105.40709385,
+      19.929851230555556
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q10784247#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Lam_Kinh",
+      "https://www.wikidata.org/wiki/Q10784247"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 2.777777777777778e-08,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "thanh_pho_ho_chi_minh_poi_01",
+    "coordinates": [
+      106.695441,
+      10.777108
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/Dinh_%C4%90%E1%BB%99c_L%E1%BA%ADp",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Dinh_%C4%90%E1%BB%99c_L%E1%BA%ADp",
+      "https://www.wikidata.org/wiki/Q933384"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "vinh_long_poi_01",
+    "coordinates": [
+      105.98213889,
+      10.29375
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/C%C3%B9_lao_An_B%C3%ACnh",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/C%C3%B9_lao_An_B%C3%ACnh",
+      "https://www.wikidata.org/wiki/Q10752082"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "vinh_long_poi_04",
+    "coordinates": [
+      106.3565,
+      10.33330556
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/C%E1%BB%93n_Ph%E1%BB%A5ng",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/C%E1%BB%93n_Ph%E1%BB%A5ng",
+      "https://www.wikidata.org/wiki/Q10752630"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-01",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý, không phải lối vào hoặc bến đón đã xác nhận; vùng cảnh quan có thể trải rộng quanh điểm này."
+  },
+  {
+    "id": "an_giang_poi_02",
+    "coordinates": [
+      105.0775,
+      10.676666666667
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q10802044#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/N%C3%BAi_Sam",
+      "https://www.wikidata.org/wiki/Q10802044#P625"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 0.00027777777777778,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "an_giang_poi_05_b",
+    "coordinates": [
+      104.036392,
+      10.057298
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/B%C3%A3i_Sao",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/B%C3%A3i_Sao",
+      "https://vi.wikipedia.org/wiki/B%C3%A3i_Sao"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "bac_ninh_poi_02",
+    "coordinates": [
+      106.041616,
+      21.037188
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q2857598#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Ch%C3%B9a_D%C3%A2u",
+      "https://www.wikidata.org/wiki/Q2857598#P625"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 0.0096246591857828,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "bac_ninh_poi_02_b",
+    "coordinates": [
+      106.0222,
+      21.06083
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_B%C3%BAt_Th%C3%A1p",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Ch%C3%B9a_B%C3%BAt_Th%C3%A1p",
+      "https://vi.wikipedia.org/wiki/Ch%C3%B9a_B%C3%BAt_Th%C3%A1p"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "bac_ninh_poi_05",
+    "coordinates": [
+      106.3236111,
+      21.21472222
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q10748589#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Ch%C3%B9a_V%C4%A9nh_Nghi%C3%AAm_%28B%E1%BA%AFc_Ninh%29",
+      "https://www.wikidata.org/wiki/Q10748589#P625"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 1e-05,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "bac_ninh_poi_05_b",
+    "coordinates": [
+      106.05222222222223,
+      21.2425
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q10748387#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Ch%C3%B9a_B%E1%BB%95_%C4%90%C3%A0",
+      "https://www.wikidata.org/wiki/Q10748387#P625"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 0.0002777777777777778,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "can_tho_poi_07_b",
+    "coordinates": [
+      105.69991667,
+      9.72275
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/Khu_b%E1%BA%A3o_t%E1%BB%93n_thi%C3%AAn_nhi%C3%AAn_Lung_Ng%E1%BB%8Dc_Ho%C3%A0ng",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Khu_b%E1%BA%A3o_t%E1%BB%93n_thi%C3%AAn_nhi%C3%AAn_Lung_Ng%E1%BB%8Dc_Ho%C3%A0ng",
+      "https://vi.wikipedia.org/wiki/Khu_b%E1%BA%A3o_t%E1%BB%93n_thi%C3%AAn_nhi%C3%AAn_Lung_Ng%E1%BB%8Dc_Ho%C3%A0ng"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "da_nang_poi_01",
+    "coordinates": [
+      108.2461,
+      16.0704
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/B%C3%A3i_bi%E1%BB%83n_M%E1%BB%B9_Kh%C3%AA",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/B%C3%A3i_bi%E1%BB%83n_M%E1%BB%B9_Kh%C3%AA",
+      "https://vi.wikipedia.org/wiki/B%C3%A3i_bi%E1%BB%83n_M%E1%BB%B9_Kh%C3%AA"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "da_nang_poi_02",
+    "coordinates": [
+      108.277,
+      16.116
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/S%C6%A1n_Tr%C3%A0",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/S%C6%A1n_Tr%C3%A0",
+      "https://vi.wikipedia.org/wiki/S%C6%A1n_Tr%C3%A0"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "da_nang_poi_02_b",
+    "coordinates": [
+      108.26,
+      16
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q6755207#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Ng%C5%A9_H%C3%A0nh_S%C6%A1n",
+      "https://www.wikidata.org/wiki/Q6755207#P625"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 0.01,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "dak_lak_poi_01_b",
+    "coordinates": [
+      107.671,
+      12.8038
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q286546#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_Yok_%C4%90%C3%B4n",
+      "https://www.wikidata.org/wiki/Q286546#P625"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 0.0092122177822486,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "dak_lak_poi_05",
+    "coordinates": [
+      109.456988,
+      12.896538
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/M%C5%A9i_%C4%90i%E1%BB%87n",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/M%C5%A9i_%C4%90i%E1%BB%87n",
+      "https://vi.wikipedia.org/wiki/M%C5%A9i_%C4%90i%E1%BB%87n"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "gia_lai_poi_03_b",
+    "coordinates": [
+      109.29264,
+      13.850027
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q86012180#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/B%C3%A3i_K%E1%BB%B3_Co",
+      "https://www.wikidata.org/wiki/Q86012180#P625"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 1e-06,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "gia_lai_poi_04",
+    "coordinates": [
+      109.23333333,
+      13.76666667
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/Gh%E1%BB%81nh_R%C3%A1ng_Ti%C3%AAn_Sa",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Gh%E1%BB%81nh_R%C3%A1ng_Ti%C3%AAn_Sa",
+      "https://vi.wikipedia.org/wiki/Gh%E1%BB%81nh_R%C3%A1ng_Ti%C3%AAn_Sa"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "ha_tinh_poi_04",
+    "coordinates": [
+      105.40833333,
+      18.29166667
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_V%C5%A9_Quang",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_V%C5%A9_Quang",
+      "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_V%C5%A9_Quang"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "ha_tinh_poi_04_b",
+    "coordinates": [
+      105.477602,
+      18.385901
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q109436216#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/H%E1%BB%93_Ng%C3%A0n_Tr%C6%B0%C6%A1i",
+      "https://www.wikidata.org/wiki/Q109436216#P625"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 1e-08,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "hai_phong_poi_01",
+    "coordinates": [
+      107.0577778,
+      20.72388889
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/C%C3%A1t_B%C3%A0_%28%C4%91%E1%BA%A3o%29",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/C%C3%A1t_B%C3%A0_%28%C4%91%E1%BA%A3o%29",
+      "https://vi.wikipedia.org/wiki/C%C3%A1t_B%C3%A0_%28%C4%91%E1%BA%A3o%29"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "hai_phong_poi_01_b",
+    "coordinates": [
+      107.04638889,
+      20.72361111
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/V%E1%BB%8Bnh_Lan_H%E1%BA%A1",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/V%E1%BB%8Bnh_Lan_H%E1%BA%A1",
+      "https://vi.wikipedia.org/wiki/V%E1%BB%8Bnh_Lan_H%E1%BA%A1"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "hai_phong_poi_04",
+    "coordinates": [
+      106.384008,
+      21.149837
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q10748399#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Ch%C3%B9a_C%C3%B4n_S%C6%A1n",
+      "https://www.wikidata.org/wiki/Q10748399#P625"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 1e-05,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "hai_phong_poi_04_b",
+    "coordinates": [
+      106.3275892,
+      21.1510532
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q10841684#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_Ki%E1%BA%BFp_B%E1%BA%A1c",
+      "https://www.wikidata.org/wiki/Q10841684#P625"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 1e-07,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "hue_poi_03",
+    "coordinates": [
+      107.56527778,
+      16.43277778
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/L%C4%83ng_T%E1%BB%B1_%C4%90%E1%BB%A9c",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/L%C4%83ng_T%E1%BB%B1_%C4%90%E1%BB%A9c",
+      "https://vi.wikipedia.org/wiki/L%C4%83ng_T%E1%BB%B1_%C4%90%E1%BB%A9c"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "hue_poi_03_b",
+    "coordinates": [
+      107.59027778,
+      16.39888889
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/L%C4%83ng_Kh%E1%BA%A3i_%C4%90%E1%BB%8Bnh",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/L%C4%83ng_Kh%E1%BA%A3i_%C4%90%E1%BB%8Bnh",
+      "https://vi.wikipedia.org/wiki/L%C4%83ng_Kh%E1%BA%A3i_%C4%90%E1%BB%8Bnh"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "hung_yen_poi_01_b",
+    "coordinates": [
+      106.05,
+      20.6558
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q3360470#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Ch%C3%B9a_Chu%C3%B4ng",
+      "https://www.wikidata.org/wiki/Q3360470#P625"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 0.01,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "khanh_hoa_poi_03",
+    "coordinates": [
+      109.20277778,
+      11.71666667
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/V%E1%BB%8Bnh_V%C4%A9nh_Hy",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/V%E1%BB%8Bnh_V%C4%A9nh_Hy",
+      "https://vi.wikipedia.org/wiki/V%E1%BB%8Bnh_V%C4%A9nh_Hy"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "khanh_hoa_poi_03_b",
+    "coordinates": [
+      109.15277778,
+      11.70027778
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_N%C3%BAi_Ch%C3%BAa",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_N%C3%BAi_Ch%C3%BAa",
+      "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_N%C3%BAi_Ch%C3%BAa"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "khanh_hoa_poi_05_b",
+    "coordinates": [
+      108.9442935,
+      11.601831
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/Th%C3%A1p_Po_Klong_Garai",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Th%C3%A1p_Po_Klong_Garai",
+      "https://vi.wikipedia.org/wiki/Th%C3%A1p_Po_Klong_Garai"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "lai_chau_poi_04",
+    "coordinates": [
+      103.76453,
+      22.3532
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/%C4%90%C3%A8o_%C3%94_Qu%C3%BD_H%E1%BB%93",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/%C4%90%C3%A8o_%C3%94_Qu%C3%BD_H%E1%BB%93",
+      "https://vi.wikipedia.org/wiki/%C4%90%C3%A8o_%C3%94_Qu%C3%BD_H%E1%BB%93"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "lam_dong_poi_01",
+    "coordinates": [
+      108.436866,
+      11.940381
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/%C4%90%C3%A0_L%E1%BA%A1t",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/%C4%90%C3%A0_L%E1%BA%A1t",
+      "https://vi.wikipedia.org/wiki/%C4%90%C3%A0_L%E1%BA%A1t"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "lam_dong_poi_01_b",
+    "coordinates": [
+      107.8075,
+      11.54805556
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/B%E1%BA%A3o_L%E1%BB%99c",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/B%E1%BA%A3o_L%E1%BB%99c",
+      "https://vi.wikipedia.org/wiki/B%E1%BA%A3o_L%E1%BB%99c"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "lam_dong_poi_05",
+    "coordinates": [
+      108.0958333,
+      10.92833333
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q10828837#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Tr%C6%B0%E1%BB%9Dng_D%E1%BB%A5c_Thanh",
+      "https://www.wikidata.org/wiki/Q10828837#P625"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 1e-05,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "lam_dong_poi_05_b",
+    "coordinates": [
+      108.146173,
+      10.935947
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q10825853#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Th%C3%A1p_Po_Sah_In%C6%B0",
+      "https://www.wikidata.org/wiki/Q10825853#P625"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 1e-06,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "lao_cai_poi_01_b",
+    "coordinates": [
+      103.777063,
+      22.304276
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/Fansipan",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Fansipan",
+      "https://vi.wikipedia.org/wiki/Fansipan"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "lao_cai_poi_03_b",
+    "coordinates": [
+      104.295633,
+      22.54099
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/Dinh_Ho%C3%A0ng_A_T%C6%B0%E1%BB%9Fng",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Dinh_Ho%C3%A0ng_A_T%C6%B0%E1%BB%9Fng",
+      "https://vi.wikipedia.org/wiki/Dinh_Ho%C3%A0ng_A_T%C6%B0%E1%BB%9Fng"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "ninh_binh_poi_03",
+    "coordinates": [
+      105.931667,
+      20.228611
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/Hang_M%C3%BAa",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Hang_M%C3%BAa",
+      "https://vi.wikipedia.org/wiki/Hang_M%C3%BAa"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "ninh_binh_poi_03_b",
+    "coordinates": [
+      105.60833333,
+      20.31666667
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q478280#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_C%C3%BAc_Ph%C6%B0%C6%A1ng",
+      "https://www.wikidata.org/wiki/Q478280#P625"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 0.00027777777777778,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "ninh_binh_poi_05",
+    "coordinates": [
+      106.167306,
+      20.456854
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_Tr%E1%BA%A7n_%28Nam_%C4%90%E1%BB%8Bnh%29",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_Tr%E1%BA%A7n_%28Nam_%C4%90%E1%BB%8Bnh%29",
+      "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_Tr%E1%BA%A7n_%28Nam_%C4%90%E1%BB%8Bnh%29"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "phu_tho_poi_02_b",
+    "coordinates": [
+      104.933,
+      21.15
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q1749733#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_Xu%C3%A2n_S%C6%A1n",
+      "https://www.wikidata.org/wiki/Q1749733#P625"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 0.0096319718758079,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "quang_ngai_poi_03",
+    "coordinates": [
+      108.88638888889,
+      15.18
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q6983802#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Khu_ch%E1%BB%A9ng_t%C3%ADch_S%C6%A1n_M%E1%BB%B9",
+      "https://www.wikidata.org/wiki/Q6983802#P625"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 0.00027777777777778,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "quang_tri_poi_02",
+    "coordinates": [
+      107.05144444,
+      17.00388889
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Hi%E1%BB%81n_L%C6%B0%C6%A1ng",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Hi%E1%BB%81n_L%C6%B0%C6%A1ng",
+      "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Hi%E1%BB%81n_L%C6%B0%C6%A1ng"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "quang_tri_poi_04",
+    "coordinates": [
+      106.15125,
+      17.53722222
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_Phong_Nha_%E2%80%93_K%E1%BA%BB_B%C3%A0ng",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_Phong_Nha_%E2%80%93_K%E1%BA%BB_B%C3%A0ng",
+      "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_Phong_Nha_%E2%80%93_K%E1%BA%BB_B%C3%A0ng"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "quang_tri_poi_04_b",
+    "coordinates": [
+      106.283125,
+      17.581325
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99ng_Phong_Nha",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99ng_Phong_Nha",
+      "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99ng_Phong_Nha"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "thanh_hoa_poi_04",
+    "coordinates": [
+      105.901937,
+      19.734537
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q1322460#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/B%C3%A3i_bi%E1%BB%83n_S%E1%BA%A7m_S%C6%A1n",
+      "https://www.wikidata.org/wiki/Q1322460#P625"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 1e-06,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "thanh_pho_ho_chi_minh_poi_05",
+    "coordinates": [
+      107.08805555556,
+      10.3275
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q10742297#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/B%C3%A3i_Sau",
+      "https://www.wikidata.org/wiki/Q10742297#P625"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 0.00027777777777778,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "thanh_pho_ho_chi_minh_poi_05_b",
+    "coordinates": [
+      107.07416666667,
+      10.343888888889
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q10742301#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/B%C3%A3i_Tr%C6%B0%E1%BB%9Bc",
+      "https://www.wikidata.org/wiki/Q10742301#P625"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 0.00027777777777778,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "thanh_pho_ho_chi_minh_poi_06",
+    "coordinates": [
+      106.65963888888889,
+      10.981027777777777
+    ],
+    "coordinate_source": "https://www.wikidata.org/wiki/Q5877747#P625",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Ch%C3%B9a_H%E1%BB%99i_Kh%C3%A1nh",
+      "https://www.wikidata.org/wiki/Q5877747#P625"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 2.777777777777778e-05,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "tuyen_quang_poi_01",
+    "coordinates": [
+      105.273835,
+      21.570449
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_khu_T%C3%A2n_Tr%C3%A0o",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_khu_T%C3%A2n_Tr%C3%A0o",
+      "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_khu_T%C3%A2n_Tr%C3%A0o"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "tuyen_quang_poi_04",
+    "coordinates": [
+      105.410942,
+      23.240808
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/%C4%90%C3%A8o_M%C3%A3_P%C3%AD_L%C3%A8ng",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/%C4%90%C3%A8o_M%C3%A3_P%C3%AD_L%C3%A8ng",
+      "https://vi.wikipedia.org/wiki/%C4%90%C3%A8o_M%C3%A3_P%C3%AD_L%C3%A8ng"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "tuyen_quang_poi_05",
+    "coordinates": [
+      105.31563333,
+      23.36794444
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/C%E1%BB%99t_c%E1%BB%9D_L%C5%A9ng_C%C3%BA",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/C%E1%BB%99t_c%E1%BB%9D_L%C5%A9ng_C%C3%BA",
+      "https://vi.wikipedia.org/wiki/C%E1%BB%99t_c%E1%BB%9D_L%C5%A9ng_C%C3%BA"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn địa lý cho đúng địa điểm, không phải lối vào, bến đón hay tuyến đường đã xác nhận. Với núi, vịnh, đảo, đô thị và vườn quốc gia, địa điểm trải rộng quanh vị trí tham chiếu; không dùng marker để suy ra đường tiếp cận."
+  },
+  {
+    "id": "bac_ninh_poi_03",
+    "coordinates": [
+      105.949569,
+      21.09944
+    ],
+    "coordinate_source": "https://mybacninh.vn/vi/dinhdinhbang",
+    "coordinate_sources": [
+      "https://mybacninh.vn/vi/dinhdinhbang"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu từ bản đồ trên cổng du lịch của địa điểm; chưa xác nhận lối vào hoặc điều kiện tiếp cận tại hiện trường."
+  },
+  {
+    "id": "thai_nguyen_poi_04",
+    "coordinates": [
+      106.117958,
+      21.779218
+    ],
+    "coordinate_source": "https://mythainguyen.vn/vi/hangphuonghoang",
+    "coordinate_sources": [
+      "https://mythainguyen.vn/vi/hangphuonghoang"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu từ bản đồ trên cổng du lịch của địa điểm; chưa xác nhận lối vào hoặc điều kiện tiếp cận tại hiện trường."
+  },
+  {
+    "id": "vinh_long_poi_03",
+    "coordinates": [
+      105.985211,
+      10.243786
+    ],
+    "coordinate_source": "https://vinhlongtourist.vn/vi/vanthanhmieuvinhlong",
+    "coordinate_sources": [
+      "https://vinhlongtourist.vn/vi/vanthanhmieuvinhlong"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu từ bản đồ trên cổng du lịch của địa điểm; chưa xác nhận lối vào hoặc điều kiện tiếp cận tại hiện trường."
+  },
+  {
+    "id": "ca_mau_poi_01",
+    "coordinates": [
+      104.71,
+      8.62305556
+    ],
+    "coordinate_source": "https://en.wikipedia.org/wiki/Cape_C%C3%A0_Mau",
+    "coordinate_sources": [
+      "https://en.wikipedia.org/wiki/Cape_C%C3%A0_Mau"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu của địa điểm hoặc vùng cảnh quan theo nguồn địa lý; không phải cổng vào, bến đón hay đường tiếp cận đã xác nhận. Đối với sông và vùng rộng, marker không thể hiện toàn bộ phạm vi."
+  },
+  {
+    "id": "dong_nai_poi_01",
+    "coordinates": [
+      107.33333333,
+      11.5
+    ],
+    "coordinate_source": "https://en.wikipedia.org/wiki/C%C3%A1t_Ti%C3%AAn_National_Park",
+    "coordinate_sources": [
+      "https://en.wikipedia.org/wiki/C%C3%A1t_Ti%C3%AAn_National_Park"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu của địa điểm hoặc vùng cảnh quan theo nguồn địa lý; không phải cổng vào, bến đón hay đường tiếp cận đã xác nhận. Đối với sông và vùng rộng, marker không thể hiện toàn bộ phạm vi."
+  },
+  {
+    "id": "dong_nai_poi_05",
+    "coordinates": [
+      107.15,
+      12.21666667
+    ],
+    "coordinate_source": "https://en.wikipedia.org/wiki/B%C3%B9_Gia_M%E1%BA%ADp_National_Park",
+    "coordinate_sources": [
+      "https://en.wikipedia.org/wiki/B%C3%B9_Gia_M%E1%BA%ADp_National_Park"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu của địa điểm hoặc vùng cảnh quan theo nguồn địa lý; không phải cổng vào, bến đón hay đường tiếp cận đã xác nhận. Đối với sông và vùng rộng, marker không thể hiện toàn bộ phạm vi."
+  },
+  {
+    "id": "gia_lai_poi_01",
+    "coordinates": [
+      108,
+      14.044
+    ],
+    "coordinate_source": "https://en.wikipedia.org/wiki/Pleiku_Lake",
+    "coordinate_sources": [
+      "https://en.wikipedia.org/wiki/Pleiku_Lake"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu của địa điểm hoặc vùng cảnh quan theo nguồn địa lý; không phải cổng vào, bến đón hay đường tiếp cận đã xác nhận. Đối với sông và vùng rộng, marker không thể hiện toàn bộ phạm vi."
+  },
+  {
+    "id": "hung_yen_poi_01",
+    "coordinates": [
+      106.05691751,
+      20.64089792
+    ],
+    "coordinate_source": "https://en.wikipedia.org/wiki/Hi%E1%BA%BFn_Town",
+    "coordinate_sources": [
+      "https://en.wikipedia.org/wiki/Hi%E1%BA%BFn_Town"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu của địa điểm hoặc vùng cảnh quan theo nguồn địa lý; không phải cổng vào, bến đón hay đường tiếp cận đã xác nhận. Đối với sông và vùng rộng, marker không thể hiện toàn bộ phạm vi."
+  },
+  {
+    "id": "lam_dong_poi_04",
+    "coordinates": [
+      108.28333333,
+      10.93333333
+    ],
+    "coordinate_source": "https://en.wikipedia.org/wiki/M%C5%A9i_N%C3%A9",
+    "coordinate_sources": [
+      "https://en.wikipedia.org/wiki/M%C5%A9i_N%C3%A9"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu của địa điểm hoặc vùng cảnh quan theo nguồn địa lý; không phải cổng vào, bến đón hay đường tiếp cận đã xác nhận. Đối với sông và vùng rộng, marker không thể hiện toàn bộ phạm vi."
+  },
+  {
+    "id": "lam_dong_poi_06",
+    "coordinates": [
+      108.93263031,
+      10.51646145
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/Ph%C3%BA_Qu%C3%BD",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Ph%C3%BA_Qu%C3%BD"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu của địa điểm hoặc vùng cảnh quan theo nguồn địa lý; không phải cổng vào, bến đón hay đường tiếp cận đã xác nhận. Đối với sông và vùng rộng, marker không thể hiện toàn bộ phạm vi."
+  },
+  {
+    "id": "lao_cai_poi_01",
+    "coordinates": [
+      103.84194444,
+      22.33555556
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/Sa_Pa_%28th%E1%BB%8B_x%C3%A3%29",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Sa_Pa_%28th%E1%BB%8B_x%C3%A3%29"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu của địa điểm hoặc vùng cảnh quan theo nguồn địa lý; không phải cổng vào, bến đón hay đường tiếp cận đã xác nhận. Đối với sông và vùng rộng, marker không thể hiện toàn bộ phạm vi."
+  },
+  {
+    "id": "lao_cai_poi_02",
+    "coordinates": [
+      103.61444444,
+      22.65777778
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/Y_T%C3%BD",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Y_T%C3%BD"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu của địa điểm hoặc vùng cảnh quan theo nguồn địa lý; không phải cổng vào, bến đón hay đường tiếp cận đã xác nhận. Đối với sông và vùng rộng, marker không thể hiện toàn bộ phạm vi."
+  },
+  {
+    "id": "ninh_binh_poi_05_b",
+    "coordinates": [
+      106.16,
+      20.45
+    ],
+    "coordinate_source": "https://en.wikipedia.org/wiki/Ph%E1%BB%95_Minh_Temple",
+    "coordinate_sources": [
+      "https://en.wikipedia.org/wiki/Ph%E1%BB%95_Minh_Temple"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu của địa điểm hoặc vùng cảnh quan theo nguồn địa lý; không phải cổng vào, bến đón hay đường tiếp cận đã xác nhận. Đối với sông và vùng rộng, marker không thể hiện toàn bộ phạm vi."
+  },
+  {
+    "id": "quang_ngai_poi_01",
+    "coordinates": [
+      109.11887634,
+      15.37158917
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/L%C3%BD_S%C6%A1n",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/L%C3%BD_S%C6%A1n"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu của địa điểm hoặc vùng cảnh quan theo nguồn địa lý; không phải cổng vào, bến đón hay đường tiếp cận đã xác nhận. Đối với sông và vùng rộng, marker không thể hiện toàn bộ phạm vi."
+  },
+  {
+    "id": "quang_tri_poi_02_b",
+    "coordinates": [
+      107.1125,
+      17.015
+    ],
+    "coordinate_source": "https://en.wikipedia.org/wiki/B%E1%BA%BFn_H%E1%BA%A3i_River",
+    "coordinate_sources": [
+      "https://en.wikipedia.org/wiki/B%E1%BA%BFn_H%E1%BA%A3i_River"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu của địa điểm hoặc vùng cảnh quan theo nguồn địa lý; không phải cổng vào, bến đón hay đường tiếp cận đã xác nhận. Đối với sông và vùng rộng, marker không thể hiện toàn bộ phạm vi."
+  },
+  {
+    "id": "son_la_poi_02",
+    "coordinates": [
+      104.61166891,
+      20.86679892
+    ],
+    "coordinate_source": "https://en.wikipedia.org/wiki/M%E1%BB%99c_Ch%C3%A2u",
+    "coordinate_sources": [
+      "https://en.wikipedia.org/wiki/M%E1%BB%99c_Ch%C3%A2u"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu của địa điểm hoặc vùng cảnh quan theo nguồn địa lý; không phải cổng vào, bến đón hay đường tiếp cận đã xác nhận. Đối với sông và vùng rộng, marker không thể hiện toàn bộ phạm vi."
+  },
+  {
+    "id": "son_la_poi_03",
+    "coordinates": [
+      104.43496132,
+      21.27557962
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/T%C3%A0_X%C3%B9a",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/T%C3%A0_X%C3%B9a"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu của địa điểm hoặc vùng cảnh quan theo nguồn địa lý; không phải cổng vào, bến đón hay đường tiếp cận đã xác nhận. Đối với sông và vùng rộng, marker không thể hiện toàn bộ phạm vi."
+  },
+  {
+    "id": "son_la_poi_05",
+    "coordinates": [
+      104.18,
+      21.59666667
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/Ng%E1%BB%8Dc_Chi%E1%BA%BFn",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Ng%E1%BB%8Dc_Chi%E1%BA%BFn"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu của địa điểm hoặc vùng cảnh quan theo nguồn địa lý; không phải cổng vào, bến đón hay đường tiếp cận đã xác nhận. Đối với sông và vùng rộng, marker không thể hiện toàn bộ phạm vi."
+  },
+  {
+    "id": "thai_nguyen_poi_03",
+    "coordinates": [
+      105.7751,
+      21.5394
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/T%C3%A2n_C%C6%B0%C6%A1ng_%28x%C3%A3%29",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/T%C3%A2n_C%C6%B0%C6%A1ng_%28x%C3%A3%29"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu của địa điểm hoặc vùng cảnh quan theo nguồn địa lý; không phải cổng vào, bến đón hay đường tiếp cận đã xác nhận. Đối với sông và vùng rộng, marker không thể hiện toàn bộ phạm vi."
+  },
+  {
+    "id": "tuyen_quang_poi_04_b",
+    "coordinates": [
+      105.530373,
+      23.136758
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/S%C3%B4ng_Nho_Qu%E1%BA%BF",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/S%C3%B4ng_Nho_Qu%E1%BA%BF"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu của địa điểm hoặc vùng cảnh quan theo nguồn địa lý; không phải cổng vào, bến đón hay đường tiếp cận đã xác nhận. Đối với sông và vùng rộng, marker không thể hiện toàn bộ phạm vi."
+  },
+  {
+    "id": "tuyen_quang_poi_06",
+    "coordinates": [
+      104.677594,
+      22.743143
+    ],
+    "coordinate_source": "https://vi.wikipedia.org/wiki/Ho%C3%A0ng_Su_Ph%C3%AC_%28huy%E1%BB%87n%29",
+    "coordinate_sources": [
+      "https://vi.wikipedia.org/wiki/Ho%C3%A0ng_Su_Ph%C3%AC_%28huy%E1%BB%87n%29"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu của địa điểm hoặc vùng cảnh quan theo nguồn địa lý; không phải cổng vào, bến đón hay đường tiếp cận đã xác nhận. Đối với sông và vùng rộng, marker không thể hiện toàn bộ phạm vi."
+  },
+  {
+    "id": "can_tho_poi_02",
+    "coordinates": [
+      105.788796,
+      10.033998
+    ],
+    "coordinate_source": "https://canthotourism.vn/vi/benninhkieu",
+    "coordinate_sources": [
+      "https://canthotourism.vn/vi/benninhkieu"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí từ bản đồ trên cổng du lịch địa điểm; chưa xác nhận đường tiếp cận hoặc lối vào tại hiện trường."
+  },
+  {
+    "id": "can_tho_poi_03",
+    "coordinates": [
+      105.749572,
+      10.067026
+    ],
+    "coordinate_source": "https://canthotourism.vn/vi/nhacobinhthuy",
+    "coordinate_sources": [
+      "https://canthotourism.vn/vi/nhacobinhthuy"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": null,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí từ bản đồ trên cổng du lịch địa điểm; chưa xác nhận đường tiếp cận hoặc lối vào tại hiện trường."
+  },
+  {
+    "id": "vinh_long_poi_05",
+    "coordinates": [
+      106.30222222222221,
+      9.91861111111111
+    ],
+    "coordinate_source": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2017/8/24727/19261-1-2017705-70621-2017-tt-btnmt.pdf",
+    "coordinate_sources": [
+      "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2017/8/24727/19261-1-2017705-70621-2017-tt-btnmt.pdf"
+    ],
+    "coordinate_status": "sourced_reference",
+    "coordinate_precision": 0.0002777777777777778,
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Tọa độ trung tâm ao Bà Om trong bảng địa danh Công báo số 705+706 ngày 26-09-2017, trang in 9; chuyển độ-phút-giây sang độ thập phân. Không phải cổng vào."
+  },
+  {
+    "id": "an_giang_poi_02_b",
+    "coordinates": [
+      105.08097,
+      10.68134
+    ],
+    "coordinate_source": "https://mapcarta.com/N1814474832",
+    "coordinate_sources": [
+      "https://mapcarta.com/N1814474832"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "poi_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn cung cấp; chưa kiểm chứng cổng vào hoặc điểm đón khách.",
+    "resolved_name": "Chùa Tây An",
+    "map_usage": "marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "an_giang_poi_03",
+    "coordinates": [
+      104.98907,
+      10.41353
+    ],
+    "coordinate_source": "https://mapcarta.com/N10932916144",
+    "coordinate_sources": [
+      "https://mapcarta.com/N10932916144"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "poi_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Chọn hồ Tà Pạ, không phải chùa Tà Pạ.",
+    "resolved_name": "Hồ Tà Pạ",
+    "map_usage": "marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "bac_ninh_poi_03_b",
+    "coordinates": [
+      106.0320529,
+      21.1647246
+    ],
+    "coordinate_source": "https://www.openstreetmap.org/way/1416315776",
+    "coordinate_sources": [
+      "https://www.openstreetmap.org/way/1416315776",
+      "https://nominatim.openstreetmap.org/search?q=Ch%C3%B9a+H%E1%BB%93ng+%C3%82n%2C+B%E1%BA%AFc+Ninh%2C+Vietnam&format=jsonv2&limit=6&countrycodes=vn"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Lễ hội có nhiều không gian; dùng địa điểm đại diện chùa Hồng Ân. Không coi đây là tọa độ của toàn bộ lễ hội.",
+    "resolved_name": "Hội Lim — điểm đại diện tại chùa Hồng Ân, đồi Lim",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "bac_ninh_poi_04",
+    "coordinates": [
+      106.7222857,
+      21.1811661
+    ],
+    "coordinate_source": "https://tanitour.vn/tay-yen-tu/",
+    "coordinate_sources": [
+      "https://tanitour.vn/tay-yen-tu/",
+      "https://www.google.com/maps/place/21.1811661,106.7222857"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "poi_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Nguồn trỏ đến chuaha.business.site tại Tuấn Mậu, Sơn Động; không lấy tâm xã Tây Yên Tử hay chùa Đồng.",
+    "resolved_name": "Tây Yên Tử — khu vực Chùa Hạ",
+    "map_usage": "marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "ca_mau_poi_03",
+    "coordinates": [
+      105.1291664,
+      9.1407714
+    ],
+    "coordinate_source": "https://www.openstreetmap.org/way/907748974",
+    "coordinate_sources": [
+      "https://www.openstreetmap.org/way/907748974",
+      "https://nominatim.openstreetmap.org/search?q=%C4%90%C3%ACnh+T%C3%A2n+H%C6%B0ng%2C+C%C3%A0+Mau%2C+Vietnam&format=jsonv2&limit=6&countrycodes=vn"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "poi_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Chọn đình ở khu vực Lý Văn Lâm, Cà Mau; loại bỏ đình trùng tên tại Bạc Liêu.",
+    "resolved_name": "Đình Tân Hưng, Cà Mau",
+    "map_usage": "marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "ca_mau_poi_04",
+    "coordinates": [
+      105.7238055,
+      9.2840845
+    ],
+    "coordinate_source": "https://tanitour.vn/nha-cong-tu-bac-lieu/",
+    "coordinate_sources": [
+      "https://tanitour.vn/nha-cong-tu-bac-lieu/",
+      "https://www.google.com/maps/place/9.284084499999999,105.7238055"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "poi_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn cung cấp; chưa kiểm chứng cổng vào hoặc điểm đón khách.",
+    "resolved_name": "Nhà Công tử Bạc Liêu",
+    "map_usage": "marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "ca_mau_poi_05",
+    "coordinates": [
+      105.7979462,
+      9.2536102
+    ],
+    "coordinate_source": "https://tanitour.vn/chua-xiem-can/",
+    "coordinate_sources": [
+      "https://tanitour.vn/chua-xiem-can/",
+      "https://www.google.com/maps/place/9.253610199999999,105.7979462"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "poi_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn cung cấp; chưa kiểm chứng cổng vào hoặc điểm đón khách.",
+    "resolved_name": "Chùa Xiêm Cán",
+    "map_usage": "marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "can_tho_poi_04",
+    "coordinates": [
+      105.75048,
+      10.08453
+    ],
+    "coordinate_source": "https://mapcarta.com/15497574",
+    "coordinate_sources": [
+      "https://mapcarta.com/15497574"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn cung cấp; chưa kiểm chứng cổng vào hoặc điểm đón khách.",
+    "resolved_name": "Cồn Sơn",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "can_tho_poi_06",
+    "coordinates": [
+      106.1608458,
+      9.3533864
+    ],
+    "coordinate_source": "https://tanitour.vn/khu-du-lich-sinh-thai-ho-be-2/",
+    "coordinate_sources": [
+      "https://tanitour.vn/khu-du-lich-sinh-thai-ho-be-2/",
+      "https://www.google.com/maps/place/9.3533864,106.16084579999999"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn cung cấp; chưa kiểm chứng cổng vào hoặc điểm đón khách.",
+    "resolved_name": "Biển Hồ Bể",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "can_tho_poi_07",
+    "coordinates": [
+      105.8383644,
+      9.7719354
+    ],
+    "coordinate_source": "https://maps.app.goo.gl/UERSnHrdn7MJtSFJA",
+    "coordinate_sources": [
+      "https://maps.app.goo.gl/UERSnHrdn7MJtSFJA",
+      "https://bloganchoi.com/review-khu-du-lich-sinh-thai-mua-xuan-cua-tinh-hau-giang/",
+      "https://www.google.com/maps/place/Khu+Du+L%E1%BB%8Bch+M%C3%B9a+Xu%C3%A2n/@9.7719354,105.8383644,15z/data=!4m6!3m5!1s0x31a05943fc4ef301:0x7db9fd49ad8e3db1!8m2!3d9.7719354!4d105.8383644!16s%2Fg%2F11kj09hwwl?entry=tts&ucbcb=1"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "poi_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Tọa độ pin lấy từ liên kết Google Maps trong bài giới thiệu, đối chiếu địa chỉ Tân Phước Hưng; chưa kiểm chứng cổng vào.",
+    "resolved_name": "Khu du lịch Mùa Xuân, Tân Phước Hưng",
+    "map_usage": "marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "cao_bang_poi_04",
+    "coordinates": [
+      106.3112857,
+      22.7782145
+    ],
+    "coordinate_source": "https://www.openstreetmap.org/node/13162197540",
+    "coordinate_sources": [
+      "https://www.openstreetmap.org/node/13162197540",
+      "https://nominatim.openstreetmap.org/search?q=N%C3%BAi+M%E1%BA%AFt+Th%E1%BA%A7n%2C+Vietnam&format=jsonv2&limit=6&countrycodes=vn"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "poi_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Tọa độ núi từ nút OSM, không phải bãi đỗ xe hay điểm bắt đầu đường đi.",
+    "resolved_name": "Núi Mắt Thần (Núi Thủng), Cao Bằng",
+    "map_usage": "marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "da_nang_poi_05",
+    "coordinates": [
+      108.29899,
+      15.87713
+    ],
+    "coordinate_source": "https://mapcarta.com/N4171964390",
+    "coordinate_sources": [
+      "https://mapcarta.com/N4171964390"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "poi_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Chọn nút ở phía tây Hội An gần công viên đất nung; loại bỏ nút trùng tên nằm trong khu phố cổ.",
+    "resolved_name": "Làng gốm Thanh Hà, Hội An",
+    "map_usage": "marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "dak_lak_poi_01",
+    "coordinates": [
+      107.79711,
+      12.89683
+    ],
+    "coordinate_source": "https://mapcarta.com/N1653918810",
+    "coordinate_sources": [
+      "https://mapcarta.com/N1653918810"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "poi_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Chọn điểm du lịch Bản Đôn, không lấy Buôn Dơn ở huyện Lắk hoặc tâm huyện Buôn Đôn.",
+    "resolved_name": "Buôn Đôn — điểm du lịch Bản Đôn",
+    "map_usage": "marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "dak_lak_poi_03",
+    "coordinates": [
+      108.04716,
+      12.67684
+    ],
+    "coordinate_source": "https://mapcarta.com/W240212833",
+    "coordinate_sources": [
+      "https://mapcarta.com/W240212833"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "poi_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn cung cấp; chưa kiểm chứng cổng vào hoặc điểm đón khách.",
+    "resolved_name": "Nhà đày Buôn Ma Thuột",
+    "map_usage": "marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "dak_lak_poi_05_b",
+    "coordinates": [
+      109.28078,
+      13.38032
+    ],
+    "coordinate_source": "https://mapcarta.com/15466402",
+    "coordinate_sources": [
+      "https://mapcarta.com/15466402"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn cung cấp; chưa kiểm chứng cổng vào hoặc điểm đón khách.",
+    "resolved_name": "Hòn Yến",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "dien_bien_poi_01",
+    "coordinates": [
+      103.01796,
+      21.38288
+    ],
+    "coordinate_source": "https://mapcarta.com/32725852",
+    "coordinate_sources": [
+      "https://mapcarta.com/32725852"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "poi_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn cung cấp; chưa kiểm chứng cổng vào hoặc điểm đón khách.",
+    "resolved_name": "Đồi A1",
+    "map_usage": "marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "dien_bien_poi_02",
+    "coordinates": [
+      103.01116,
+      21.3853
+    ],
+    "coordinate_source": "https://mapcarta.com/W1204348923",
+    "coordinate_sources": [
+      "https://mapcarta.com/W1204348923"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "poi_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn cung cấp; chưa kiểm chứng cổng vào hoặc điểm đón khách.",
+    "resolved_name": "Hầm Đờ Cát",
+    "map_usage": "marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "dien_bien_poi_03",
+    "coordinates": [
+      103.1637745,
+      21.4512679
+    ],
+    "coordinate_source": "https://www.openstreetmap.org/node/4456912024",
+    "coordinate_sources": [
+      "https://www.openstreetmap.org/node/4456912024"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "poi_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Nút memorial của OSM (name:en Headquater of the Điện Biên Phủ campaign); khác công viên tượng đài Mường Phăng. Chưa kiểm chứng cổng vào.",
+    "resolved_name": "Sở chỉ huy Chiến dịch Điện Biên Phủ tại Mường Phăng",
+    "map_usage": "marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "dien_bien_poi_05",
+    "coordinates": [
+      103.52739,
+      21.56542
+    ],
+    "coordinate_source": "https://mapcarta.com/29197184",
+    "coordinate_sources": [
+      "https://mapcarta.com/29197184"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "poi_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn cung cấp; chưa kiểm chứng cổng vào hoặc điểm đón khách.",
+    "resolved_name": "Đèo Pha Đin",
+    "map_usage": "marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "dong_thap_poi_03",
+    "coordinates": [
+      105.7499572,
+      10.3153547
+    ],
+    "coordinate_source": "https://tanitour.vn/lang-hoa-sa-dec/",
+    "coordinate_sources": [
+      "https://tanitour.vn/lang-hoa-sa-dec/",
+      "https://www.google.com/maps/place/10.3153547,105.7499572"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn cung cấp; chưa kiểm chứng cổng vào hoặc điểm đón khách.",
+    "resolved_name": "Làng hoa Sa Đéc",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "gia_lai_poi_03",
+    "coordinates": [
+      109.29141,
+      13.89088
+    ],
+    "coordinate_source": "https://mapcarta.com/N4132751593",
+    "coordinate_sources": [
+      "https://mapcarta.com/N4132751593"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "poi_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn cung cấp; chưa kiểm chứng cổng vào hoặc điểm đón khách.",
+    "resolved_name": "Eo Gió",
+    "map_usage": "marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "ha_noi_poi_02",
+    "coordinates": [
+      105.85004,
+      21.03532
+    ],
+    "coordinate_source": "https://mapcarta.com/N11090978626",
+    "coordinate_sources": [
+      "https://mapcarta.com/N11090978626"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Khu phố cổ rộng; đây là điểm tham chiếu để zoom.",
+    "resolved_name": "Phố cổ Hà Nội — điểm tham chiếu khu phố cổ",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "ha_tinh_poi_01",
+    "coordinates": [
+      105.7395203,
+      18.4022035
+    ],
+    "coordinate_source": "https://www.openstreetmap.org/node/12245503530",
+    "coordinate_sources": [
+      "https://www.openstreetmap.org/node/12245503530",
+      "https://nominatim.openstreetmap.org/search?q=Ng%C3%A3+ba+%C4%90%E1%BB%93ng+L%E1%BB%99c%2C+Vietnam&format=jsonv2&limit=6&countrycodes=vn"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "poi_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn cung cấp; chưa kiểm chứng cổng vào hoặc điểm đón khách.",
+    "resolved_name": "Ngã ba Đồng Lộc",
+    "map_usage": "marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "ha_tinh_poi_02",
+    "coordinates": [
+      105.7667208,
+      18.6647657
+    ],
+    "coordinate_source": "https://www.openstreetmap.org/node/7261144420",
+    "coordinate_sources": [
+      "https://www.openstreetmap.org/node/7261144420",
+      "https://nominatim.openstreetmap.org/search?q=Khu+l%C6%B0u+ni%E1%BB%87m+Nguy%E1%BB%85n+Du%2C+Vietnam&format=jsonv2&limit=6&countrycodes=vn"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "poi_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn cung cấp; chưa kiểm chứng cổng vào hoặc điểm đón khách.",
+    "resolved_name": "Khu lưu niệm Nguyễn Du",
+    "map_usage": "marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "ha_tinh_poi_03",
+    "coordinates": [
+      106.1059362,
+      18.272712
+    ],
+    "coordinate_source": "https://tanitour.vn/thien-cam-beach-2/",
+    "coordinate_sources": [
+      "https://tanitour.vn/thien-cam-beach-2/",
+      "https://www.google.com/maps/place/18.272712,106.1059362"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn cung cấp; chưa kiểm chứng cổng vào hoặc điểm đón khách.",
+    "resolved_name": "Thiên Cầm",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "hai_phong_poi_02",
+    "coordinates": [
+      106.79541,
+      20.68701
+    ],
+    "coordinate_source": "https://mapcarta.com/29536074",
+    "coordinate_sources": [
+      "https://mapcarta.com/29536074"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn cung cấp; chưa kiểm chứng cổng vào hoặc điểm đón khách.",
+    "resolved_name": "Đồ Sơn",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "hue_poi_04",
+    "coordinates": [
+      107.63333,
+      16.51667
+    ],
+    "coordinate_source": "https://mapcarta.com/15534030",
+    "coordinate_sources": [
+      "https://mapcarta.com/15534030"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Tọa độ khu đầm có độ chính xác thô; không phải bến thuyền hay nhà hàng.",
+    "resolved_name": "Đầm Chuồn (Đầm An Truyền)",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "hue_poi_05",
+    "coordinates": [
+      108.0782,
+      16.241
+    ],
+    "coordinate_source": "https://mapcarta.com/Lăng_Cô",
+    "coordinate_sources": [
+      "https://mapcarta.com/Lăng_Cô"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Không phải vị trí cụ thể của resort, bãi biển hay đầm Lập An.",
+    "resolved_name": "Lăng Cô — điểm tham chiếu thị trấn",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "hung_yen_poi_02",
+    "coordinates": [
+      106.0840766,
+      20.9941346
+    ],
+    "coordinate_source": "https://tanitour.vn/chua-nom-linh-thong-co-tu/",
+    "coordinate_sources": [
+      "https://tanitour.vn/chua-nom-linh-thong-co-tu/",
+      "https://www.google.com/maps/place/20.9941346,106.08407659999999"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "poi_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn cung cấp; chưa kiểm chứng cổng vào hoặc điểm đón khách.",
+    "resolved_name": "Chùa Nôm",
+    "map_usage": "marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "hung_yen_poi_03",
+    "coordinates": [
+      105.940729,
+      20.87724
+    ],
+    "coordinate_source": "https://dulich.hungyen.gov.vn/vi/dendahoa",
+    "coordinate_sources": [
+      "https://dulich.hungyen.gov.vn/vi/dendahoa"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "poi_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Tên Đền Chử Đồng Tử có thể chỉ Đa Hòa hoặc Dạ Trạch. Bản ghi chọn Đa Hòa; cần tạo POI riêng nếu muốn Dạ Trạch.",
+    "resolved_name": "Đền Đa Hòa (thờ Chử Đồng Tử)",
+    "map_usage": "marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "hung_yen_poi_04",
+    "coordinates": [
+      105.93335,
+      20.96096
+    ],
+    "coordinate_source": "https://mapcarta.com/39334062",
+    "coordinate_sources": [
+      "https://mapcarta.com/39334062"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn cung cấp; chưa kiểm chứng cổng vào hoặc điểm đón khách.",
+    "resolved_name": "Ecopark",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "khanh_hoa_poi_01",
+    "coordinates": [
+      109.229258,
+      12.5506434
+    ],
+    "coordinate_source": "https://www.beachatlas.com/doc-let-beach",
+    "coordinate_sources": [
+      "https://www.beachatlas.com/doc-let-beach"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn cung cấp; chưa kiểm chứng cổng vào hoặc điểm đón khách.",
+    "resolved_name": "Bãi biển Dốc Lết",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "khanh_hoa_poi_02",
+    "coordinates": [
+      109.31667,
+      12.18333
+    ],
+    "coordinate_source": "https://mapcarta.com/15477100",
+    "coordinate_sources": [
+      "https://mapcarta.com/15477100"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Tọa độ đại diện thôn theo nguồn địa danh; độ chính xác thô, không phải bến tàu.",
+    "resolved_name": "Thôn Bích Đầm, đảo Hòn Tre",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "khanh_hoa_poi_04",
+    "coordinates": [
+      109.18198,
+      11.67842
+    ],
+    "coordinate_source": "https://mapcarta.com/N5233871122",
+    "coordinate_sources": [
+      "https://mapcarta.com/N5233871122"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "poi_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn cung cấp; chưa kiểm chứng cổng vào hoặc điểm đón khách.",
+    "resolved_name": "Hang Rái",
+    "map_usage": "marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "khanh_hoa_poi_05",
+    "coordinates": [
+      108.92846,
+      11.53095
+    ],
+    "coordinate_source": "https://mapcarta.com/N5091041221",
+    "coordinate_sources": [
+      "https://mapcarta.com/N5091041221"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn cung cấp; chưa kiểm chứng cổng vào hoặc điểm đón khách.",
+    "resolved_name": "Bàu Trúc — điểm đại diện tại cơ sở nghệ nhân Đàng Xem",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "lai_chau_poi_01",
+    "coordinates": [
+      103.48333,
+      22.48333
+    ],
+    "coordinate_source": "https://mapcarta.com/15481414",
+    "coordinate_sources": [
+      "https://mapcarta.com/15481414"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Điểm tham chiếu bản với tọa độ thô; không dùng làm vị trí homestay hay cổng bản.",
+    "resolved_name": "Bản Sin Suối Hồ",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "lai_chau_poi_02",
+    "coordinates": [
+      103.23438,
+      22.36647
+    ],
+    "coordinate_source": "https://mapcarta.com/15481434",
+    "coordinate_sources": [
+      "https://mapcarta.com/15481434"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn cung cấp; chưa kiểm chứng cổng vào hoặc điểm đón khách.",
+    "resolved_name": "Sìn Hồ",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "lam_dong_poi_02",
+    "coordinates": [
+      107.92746,
+      11.85764
+    ],
+    "coordinate_source": "https://mapcarta.com/N4908449423",
+    "coordinate_sources": [
+      "https://mapcarta.com/N4908449423"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Chọn hồ/khu ngắm hồ theo nguồn, không chọn đỉnh núi Tà Đùng.",
+    "resolved_name": "Hồ Tà Đùng — điểm tham chiếu",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "lam_dong_poi_03",
+    "coordinates": [
+      107.91667,
+      12.61667
+    ],
+    "coordinate_source": "https://mapcarta.com/15519928",
+    "coordinate_sources": [
+      "https://mapcarta.com/15519928"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Điểm tham chiếu địa danh có tọa độ thô, cần bổ sung điểm tham quan cụ thể trước khi chỉ đường.",
+    "resolved_name": "Buôn Buôr",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "lang_son_poi_02",
+    "coordinates": [
+      106.31892,
+      21.90008
+    ],
+    "coordinate_source": "https://mapcarta.com/15528548",
+    "coordinate_sources": [
+      "https://mapcarta.com/15528548"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Không phải điểm ngắm thung lũng hoặc đỉnh Nà Lay.",
+    "resolved_name": "Bắc Sơn — điểm tham chiếu thị trấn",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "lang_son_poi_04",
+    "coordinates": [
+      106.542491,
+      21.619487
+    ],
+    "coordinate_source": "https://langsontourism.com.vn/vi/aichilang",
+    "coordinate_sources": [
+      "https://langsontourism.com.vn/vi/aichilang"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Tọa độ g_GetMapPlace_LatLng trên trang du lịch Lạng Sơn; không tự thay bằng tâm thị trấn Chi Lăng.",
+    "resolved_name": "Ải Chi Lăng — điểm tham chiếu theo cổng du lịch",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "lao_cai_poi_03",
+    "coordinates": [
+      104.29305,
+      22.53911
+    ],
+    "coordinate_source": "https://mapcarta.com/15528722",
+    "coordinate_sources": [
+      "https://mapcarta.com/15528722"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn cung cấp; chưa kiểm chứng cổng vào hoặc điểm đón khách.",
+    "resolved_name": "Bắc Hà",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "lao_cai_poi_04",
+    "coordinates": [
+      104.0972,
+      21.848
+    ],
+    "coordinate_source": "https://mapcarta.com/29398338",
+    "coordinate_sources": [
+      "https://mapcarta.com/29398338"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Không phải tọa độ đồi Mâm Xôi, La Pán Tẩn hay đồi Móng Ngựa.",
+    "resolved_name": "Mù Cang Chải — điểm tham chiếu thị trấn",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "lao_cai_poi_05",
+    "coordinates": [
+      104.37966,
+      21.46659
+    ],
+    "coordinate_source": "https://mapcarta.com/15473808",
+    "coordinate_sources": [
+      "https://mapcarta.com/15473808"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Không phải tọa độ khu suối khoáng nóng cụ thể.",
+    "resolved_name": "Trạm Tấu — điểm tham chiếu thị trấn",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "nghe_an_poi_03",
+    "coordinates": [
+      105.7486874,
+      18.7784704
+    ],
+    "coordinate_source": "https://www.beachatlas.com/cua-lo-2",
+    "coordinate_sources": [
+      "https://www.beachatlas.com/cua-lo-2"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn cung cấp; chưa kiểm chứng cổng vào hoặc điểm đón khách.",
+    "resolved_name": "Bãi biển Cửa Lò (điểm tham chiếu theo nguồn)",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "nghe_an_poi_04",
+    "coordinates": [
+      105.2812454,
+      18.731346
+    ],
+    "coordinate_source": "https://tanitour.vn/moc-hill-nghe-an-dao-che-thanh-chuong/",
+    "coordinate_sources": [
+      "https://tanitour.vn/moc-hill-nghe-an-dao-che-thanh-chuong/",
+      "https://www.google.com/maps/place/18.731346,105.28124539999999"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Nguồn là Mộc Hill Nghệ An - Đảo chè Thanh Chương. Điểm đại diện dịch vụ/ngắm cảnh, không phải tâm tất cả đảo chè.",
+    "resolved_name": "Đồi chè Thanh Chương — điểm đại diện tại Mộc Hill",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "ninh_binh_poi_01_b",
+    "coordinates": [
+      105.93746,
+      20.21634
+    ],
+    "coordinate_source": "https://mapcarta.com/N4567308091",
+    "coordinate_sources": [
+      "https://mapcarta.com/N4567308091"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "poi_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Nguồn ghi Tam Coc Boat Ride, dùng marker bến/tuyến thuyền; chưa kiểm chứng vị trí đón khách hiện tại.",
+    "resolved_name": "Tam Cốc — bến thuyền",
+    "map_usage": "marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "ninh_binh_poi_04",
+    "coordinates": [
+      105.81967,
+      20.56412
+    ],
+    "coordinate_source": "https://mapcarta.com/N6707397287",
+    "coordinate_sources": [
+      "https://mapcarta.com/N6707397287"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "poi_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Nguồn ghi Main gate of Tam Chuc. Chưa kiểm tra cổng đang mở/điểm xe được phép đến.",
+    "resolved_name": "Tam Chúc — cổng chính theo OSM",
+    "map_usage": "marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "phu_tho_poi_02",
+    "coordinates": [
+      105.06047,
+      21.11842
+    ],
+    "coordinate_source": "https://mapcarta.com/39334264",
+    "coordinate_sources": [
+      "https://mapcarta.com/39334264"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Mới có tọa độ làng; chưa đủ căn cứ cho một đồi chè hoặc điểm chụp ảnh cụ thể. Chỉ zoom toàn vùng, không đặt marker tên Đồi chè Long Cốc.",
+    "resolved_name": "Long Cốc — điểm tham chiếu làng Long Cốc",
+    "map_usage": "zoom_only",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "phu_tho_poi_03",
+    "coordinates": [
+      105.6445,
+      21.456
+    ],
+    "coordinate_source": "https://mapcarta.com/Tam_Dao",
+    "coordinate_sources": [
+      "https://mapcarta.com/Tam_Dao"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn cung cấp; chưa kiểm chứng cổng vào hoặc điểm đón khách.",
+    "resolved_name": "Tam Đảo",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "phu_tho_poi_03_b",
+    "coordinates": [
+      105.59172,
+      21.46958
+    ],
+    "coordinate_source": "https://mapcarta.com/N4904255022",
+    "coordinate_sources": [
+      "https://mapcarta.com/N4904255022"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Quần thể gồm nhiều đền/chùa. Chọn ga cáp treo để zoom; không gộp với thiền viện Trúc Lâm hay Đền Thượng.",
+    "resolved_name": "Tây Thiên — điểm đại diện tại ga cáp treo",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "phu_tho_poi_04",
+    "coordinates": [
+      105.7035476,
+      21.3208346
+    ],
+    "coordinate_source": "https://tanitour.vn/ho-dai-lai/",
+    "coordinate_sources": [
+      "https://tanitour.vn/ho-dai-lai/",
+      "https://www.google.com/maps/place/21.320834599999998,105.7035476"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Tọa độ hồ, không phải Flamingo hoặc một resort cụ thể.",
+    "resolved_name": "Hồ Đại Lải",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "phu_tho_poi_05",
+    "coordinates": [
+      105.0833,
+      20.6648
+    ],
+    "coordinate_source": "https://mapcarta.com/29448410",
+    "coordinate_sources": [
+      "https://mapcarta.com/29448410"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn cung cấp; chưa kiểm chứng cổng vào hoặc điểm đón khách.",
+    "resolved_name": "Mai Châu",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "phu_tho_poi_05_b",
+    "coordinates": [
+      105.071467,
+      20.6507434
+    ],
+    "coordinate_source": "https://tanitour.vn/ban-lac-mai-chau/",
+    "coordinate_sources": [
+      "https://tanitour.vn/ban-lac-mai-chau/",
+      "https://www.google.com/maps/place/20.6507434,105.071467"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn cung cấp; chưa kiểm chứng cổng vào hoặc điểm đón khách.",
+    "resolved_name": "Bản Lác",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "phu_tho_poi_06",
+    "coordinates": [
+      105.14843,
+      20.76655
+    ],
+    "coordinate_source": "https://mapcarta.com/39175072",
+    "coordinate_sources": [
+      "https://mapcarta.com/39175072"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Điểm tham chiếu trên hồ, không phải bến thuyền hoặc đập thủy điện.",
+    "resolved_name": "Hồ Hòa Bình",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "phu_tho_poi_06_b",
+    "coordinates": [
+      105.1768867,
+      20.7571365
+    ],
+    "coordinate_source": "https://www.showcaves.com/english/vn/showcaves/ThacBoNgoiHoa.html",
+    "coordinate_sources": [
+      "https://www.showcaves.com/english/vn/showcaves/ThacBoNgoiHoa.html"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Tên bao quát vùng du lịch. Chọn hang để zoom và ghi rõ tên; không coi đây là Đền Chúa Thác Bờ hoặc thác cũ đã ngập.",
+    "resolved_name": "Thác Bờ — điểm đại diện tại Động Thác Bờ Ngòi Hoa",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "quang_ngai_poi_02",
+    "coordinates": [
+      108.8952905,
+      15.1906337
+    ],
+    "coordinate_source": "https://www.openstreetmap.org/node/2749636616",
+    "coordinate_sources": [
+      "https://www.openstreetmap.org/node/2749636616",
+      "https://nominatim.openstreetmap.org/search?q=B%C3%A3i+bi%E1%BB%83n+M%E1%BB%B9+Kh%C3%AA%2C+Qu%E1%BA%A3ng+Ng%C3%A3i%2C+Vietnam&format=jsonv2&limit=6&countrycodes=vn"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "poi_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Đúng khu vực Tịnh Khê, Quảng Ngãi; không phải Mỹ Khê Đà Nẵng.",
+    "resolved_name": "Bãi biển Mỹ Khê, Quảng Ngãi",
+    "map_usage": "marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "quang_ngai_poi_04",
+    "coordinates": [
+      108.8187085,
+      15.148929
+    ],
+    "coordinate_source": "https://www.vietnam-pagodas.com/vi/chua/chua-thien-an",
+    "coordinate_sources": [
+      "https://www.vietnam-pagodas.com/vi/chua/chua-thien-an"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "poi_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn cung cấp; chưa kiểm chứng cổng vào hoặc điểm đón khách.",
+    "resolved_name": "Chùa Thiên Ấn, Quảng Ngãi",
+    "map_usage": "marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "quang_ngai_poi_05",
+    "coordinates": [
+      108.29162,
+      14.60146
+    ],
+    "coordinate_source": "https://mapcarta.com/29697648",
+    "coordinate_sources": [
+      "https://mapcarta.com/29697648"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn cung cấp; chưa kiểm chứng cổng vào hoặc điểm đón khách.",
+    "resolved_name": "Măng Đen",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "quang_ninh_poi_02",
+    "coordinates": [
+      107.0289694,
+      20.9431269
+    ],
+    "coordinate_source": "https://tanitour.vn/bai-chay-beach/",
+    "coordinate_sources": [
+      "https://tanitour.vn/bai-chay-beach/",
+      "https://www.google.com/maps/place/20.9431269,107.0289694"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn cung cấp; chưa kiểm chứng cổng vào hoặc điểm đón khách.",
+    "resolved_name": "Bãi Cháy",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "quang_ninh_poi_03",
+    "coordinates": [
+      107.0826,
+      20.9564
+    ],
+    "coordinate_source": "https://mapcarta.com/N311548456",
+    "coordinate_sources": [
+      "https://mapcarta.com/N311548456"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Không phải tọa độ một cảng, bến tàu hoặc khách sạn.",
+    "resolved_name": "Hòn Gai — điểm tham chiếu khu vực",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "son_la_poi_01",
+    "coordinates": [
+      103.9071142,
+      21.3314694
+    ],
+    "coordinate_source": "https://tanitour.vn/khu-di-tich-lich-su-nha-tu-son-la/",
+    "coordinate_sources": [
+      "https://tanitour.vn/khu-di-tich-lich-su-nha-tu-son-la/",
+      "https://www.google.com/maps/place/21.3314694,103.9071142"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "poi_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn cung cấp; chưa kiểm chứng cổng vào hoặc điểm đón khách.",
+    "resolved_name": "Nhà tù Sơn La",
+    "map_usage": "marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "son_la_poi_04",
+    "coordinates": [
+      103.6492,
+      21.7722
+    ],
+    "coordinate_source": "https://mapcarta.com/16155834",
+    "coordinate_sources": [
+      "https://mapcarta.com/16155834"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Nguồn địa danh hành chính, không phải bến du thuyền hoặc cầu Pá Uôn.",
+    "resolved_name": "Quỳnh Nhai — điểm tham chiếu địa danh",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "tay_ninh_poi_04",
+    "coordinates": [
+      105.98746,
+      10.71486
+    ],
+    "coordinate_source": "https://mapcarta.com/N4680253118",
+    "coordinate_sources": [
+      "https://mapcarta.com/N4680253118"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Nguồn OSM/Mapcarta có phân loại tourism=artwork bất thường. Tọa độ phù hợp khu Tân Lập nhưng cần kiểm tra pin khu du lịch trước khi dùng marker chính xác.",
+    "resolved_name": "Làng nổi Tân Lập — điểm tham chiếu",
+    "map_usage": "zoom_only",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "tay_ninh_poi_05",
+    "coordinates": [
+      106.3625747,
+      10.736331
+    ],
+    "coordinate_source": "https://chavigarden.com/thong-tin-lien-lac/",
+    "coordinate_sources": [
+      "https://chavigarden.com/thong-tin-lien-lac/"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "site_map_center",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Tâm khung bản đồ nhúng trên trang liên hệ chính thức; chưa xác định được tọa độ pin từ iframe. Chỉ dùng zoom, không đặt marker chính xác.",
+    "resolved_name": "Chavi Garden",
+    "map_usage": "zoom_only",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "thai_nguyen_poi_01",
+    "coordinates": [
+      105.5098493,
+      21.7882992
+    ],
+    "coordinate_source": "https://www.openstreetmap.org/node/5630671423",
+    "coordinate_sources": [
+      "https://www.openstreetmap.org/node/5630671423",
+      "https://nominatim.openstreetmap.org/search?q=ATK+%C4%90%E1%BB%8Bnh+H%C3%B3a%2C+Vietnam&format=jsonv2&limit=6&countrycodes=vn"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Nguồn là nút OSM tourism=artwork mang tên ATK Định Hóa. Chỉ đại diện khu di tích, không phải mọi di tích ATK hoặc cổng vào.",
+    "resolved_name": "ATK Định Hóa — điểm di tích khu Đèo De, Phú Đình",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "thanh_hoa_poi_03",
+    "coordinates": [
+      105.17268,
+      20.46653
+    ],
+    "coordinate_source": "https://mapcarta.com/N5191527721",
+    "coordinate_sources": [
+      "https://mapcarta.com/N5191527721"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Không phải điểm bắt đầu trekking, bản Đôn, Kho Mường hay khu lưu trú.",
+    "resolved_name": "Pù Luông — điểm tham chiếu khu bảo tồn",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "thanh_hoa_poi_05",
+    "coordinates": [
+      105.39044,
+      20.25196
+    ],
+    "coordinate_source": "https://mapcarta.com/N4862104723",
+    "coordinate_sources": [
+      "https://mapcarta.com/N4862104723"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "poi_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn cung cấp; chưa kiểm chứng cổng vào hoặc điểm đón khách.",
+    "resolved_name": "Suối cá thần Cẩm Lương",
+    "map_usage": "marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "thanh_pho_ho_chi_minh_poi_04",
+    "coordinates": [
+      106.9715,
+      10.4148
+    ],
+    "coordinate_source": "https://mapcarta.com/31635756",
+    "coordinate_sources": [
+      "https://mapcarta.com/31635756"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Không phải khu Vàm Sát, Đảo Khỉ hay bến tàu đi Thiềng Liềng.",
+    "resolved_name": "Cần Giờ — điểm tham chiếu khu vực",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "thanh_pho_ho_chi_minh_poi_06_b",
+    "coordinates": [
+      106.59141,
+      11.06121
+    ],
+    "coordinate_source": "https://mapcarta.com/N4314660031",
+    "coordinate_sources": [
+      "https://mapcarta.com/N4314660031"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "poi_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Vị trí tham chiếu theo nguồn cung cấp; chưa kiểm chứng cổng vào hoặc điểm đón khách.",
+    "resolved_name": "Làng tre Phú An",
+    "map_usage": "marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "tuyen_quang_poi_02",
+    "coordinates": [
+      105.38241,
+      22.34917
+    ],
+    "coordinate_source": "https://mapcarta.com/29422082",
+    "coordinate_sources": [
+      "https://mapcarta.com/29422082"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Không phải bến hồ Na Hang hoặc một điểm trên lòng hồ.",
+    "resolved_name": "Na Hang — điểm tham chiếu thị trấn",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "tuyen_quang_poi_02_b",
+    "coordinates": [
+      105.219,
+      22.4641
+    ],
+    "coordinate_source": "https://mapcarta.com/29391874",
+    "coordinate_sources": [
+      "https://mapcarta.com/29391874"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Không phải bến tàu, Khuổi Nhi hoặc homestay.",
+    "resolved_name": "Lâm Bình — điểm tham chiếu vùng",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "tuyen_quang_poi_03",
+    "coordinates": [
+      105.12363,
+      21.76589
+    ],
+    "coordinate_source": "https://mapcarta.com/N5630767521",
+    "coordinate_sources": [
+      "https://mapcarta.com/N5630767521"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "poi_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Chọn nút Mỹ Lâm Hot Springs Village; không chọn bệnh viện hoặc cơ sở lưu trú cụ thể.",
+    "resolved_name": "Mỹ Lâm — điểm tham chiếu khu suối khoáng",
+    "map_usage": "marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "tuyen_quang_poi_05_b",
+    "coordinates": [
+      105.36291,
+      23.27841
+    ],
+    "coordinate_source": "https://mapcarta.com/15510612",
+    "coordinate_sources": [
+      "https://mapcarta.com/15510612"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Không đại diện toàn bộ cao nguyên đá hoặc dinh Vua Mèo.",
+    "resolved_name": "Đồng Văn — điểm tham chiếu thị trấn",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  },
+  {
+    "id": "vinh_long_poi_02",
+    "coordinates": [
+      106.06861,
+      10.22699
+    ],
+    "coordinate_source": "https://mapcarta.com/W1184994504",
+    "coordinate_sources": [
+      "https://mapcarta.com/W1184994504"
+    ],
+    "coordinate_status": "source_backed",
+    "coordinate_type": "area_reference",
+    "coordinate_retrieved_on": "2026-10-04",
+    "coordinate_note": "Chọn polygon Vinh Long pottery village, không lấy tâm huyện Mang Thít.",
+    "resolved_name": "Mang Thít — điểm tham chiếu làng gốm Vĩnh Long",
+    "map_usage": "representative_marker_and_zoom",
+    "navigation_ready": false,
+    "crs": "WGS84",
+    "coordinate_import_source": "toa_do_75_dia_diem/poi_coordinates.json"
+  }
+]
